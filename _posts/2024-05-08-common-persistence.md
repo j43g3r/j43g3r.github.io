@@ -129,4 +129,4 @@ And lastly, to ensure it lives to fight another day the malware establishes pers
 ### References:
 
 * https://github.com/elastic/labs-releases/tree/main/nightMARE
-* https://www.google.com/search?channel=fs&client=ubuntu-sn&q=ghost+pulse+elastic+labs
+* https://www.elastic.co/security-labs/ghostpulse-haunts-victims-using-defense-evasion-bag-o-tricks
