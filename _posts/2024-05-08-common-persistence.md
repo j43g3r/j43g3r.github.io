@@ -112,7 +112,7 @@ And lastly, to ensure it lives to fight another day the malware establishes pers
 | Context            | Observable                                                                                                       | Indicator Type |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- | -------------- |
 | C2 within Pastebin | 138.201.125[.]92:15647                                                                                           | IP-v4          |
-| Pastebin           | hxxps[://]pastebin[.]com/raw/cLika3dt                                                                            | url            |
+| Pastebin           | hxxps[://]pastebin[.]com/raw/cLika3dt                                                                            | URL            |
 | PS Script          | 2011_allso.ps1<br>**SHA256:** c6f8edcb9bff1efe62dcaddc90c27df67bf3f64d951a5f08089f2f1c5a7981d1                   | File           |
 | Persistence        | %AppData%\Microsoft\Windows\Start Menu\Programs\Startup\Dby_control.lnk                                          | File           |
 | Persistence        | TPAutoConnect.exe (vmtoolsd.exe)<br>**SHA256:** bf933ccf86c55fc328e343b55dbf2e8ebd528e8a0a54f8f659cd0d4b4f261f26 | File           |
