@@ -14,12 +14,12 @@ timezone: Australia/Adelaide
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cyber Culture # the main title
+title: cybr.culture # the main title
 
-tagline: Leader, Threat Researcher # it will display as the sub-title
+tagline: Big Brain Dumpster of Cyber Stuff # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Cybr Culture is a Big Brain dumpster of Cyber Stuff like malware analysis & threat hunting.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,7 +35,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: j43g3r
+  name: cybr.culture
   email: j4393r@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link

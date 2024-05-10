@@ -12,7 +12,7 @@ tags:
   - sectoprat
   - ghostpulse
   - msix
-  - cyber_culture
+  - cybr_culture
   - C2
 mermaid: true
 img_path: /assets/img/
