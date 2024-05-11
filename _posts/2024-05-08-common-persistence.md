@@ -5,15 +5,16 @@ date: 2024-05-08 22:00:00 +1030
 description: 
 image: 
 category:
-  - Theat_Hunting
   - Malware Analysis
+  - Remote Access Trojan (RAT)
 tags:
   - malware_analysis
   - sectoprat
   - ghostpulse
   - msix
   - cybr_culture
-  - C2
+  - rat
+  - c2
 mermaid: true
 img_path: /assets/img/
 pin: true
