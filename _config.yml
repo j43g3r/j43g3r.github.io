@@ -16,7 +16,7 @@ timezone: Australia/Adelaide
 
 title: cybr.culture # the main title
 
-tagline: Big Brain Dumpster of Cyber Stuff # it will display as the sub-title
+tagline: Big Brain Dumpster # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Cybr Culture is a Big Brain dumpster of Cyber Stuff like malware analysis & threat hunting.
@@ -35,7 +35,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: cybr.culture
+  name: j43g3r
   email: j4393r@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link

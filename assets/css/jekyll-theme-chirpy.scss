@@ -5,5 +5,11 @@
 
 /* append your custom style below */
 #sidebar .site-title a {
-  color: #f4e8a4;
+  color: #fefefe;
+}
+
+
+#toc-wrapper ul .is-active-link {
+  color: rgb(255, 255, 255) !important;
+  font-weight: 600;
 }
